@@ -1,0 +1,3 @@
+[submodule "fairseq_tuformer"]
+	path = fairseq_tuformer
+	url = https://github.com/xliu1231/fairseq_tuformer.git
